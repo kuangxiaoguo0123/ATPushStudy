@@ -42,3 +42,8 @@ captures/
 #.idea/
 .idea/
 
+#/.DS_Store
+.DS_Store
+*/.DS_Store
+
+PushSDK/.DS_Store
